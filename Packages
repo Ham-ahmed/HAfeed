@@ -1,0 +1,57 @@
+Package: enigma2-plugin-extensions-ajpanel
+Version: v10.1.0
+Description: Enigma2 Tools
+Maintainer: AMAJamry - https://github.com/AMAJamry/AJPanel
+Architecture: all
+Priority: optional
+Section: base
+Homepage: https://github.com/AMAJamry/AJPanel
+Recommends: xz (>= 5), zip, p7zip, unrar, bzip2, ffmpeg, python-requests | python3-requests, python-imaging | python3-pillow, ar (>= 2) | enigma2-plugin-extensions-opkg-tools | binutils
+Size: 510098
+Filename: enigma2-plugin-extensions-ajpanel_v10.1.0_all.ipk
+MD5sum: 7bb4677c62fc9a1cffb0f708d38c1faa
+SHA256sum: 4198e9ddb28a274b15106b8f99dc407bd2ed2b5d682ec09eb39028641eabcd60
+
+Package: enigma2-plugin-extensions-ajpanel
+Version: v9.2.0
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+Priority: optional
+Section: base
+License: none
+Homepage: unknown
+Depends: 
+Recommends: xz, zip, p7zip, unrar, bzip2, ffmpeg, python-requests | python3-requests, python-imaging | python3-pillow, ar (>= 2) | enigma2-plugin-extensions-opkg-tools | binutils
+Size: 479862
+Filename: enigma2-plugin-extensions-ajpanel_v9.2.0_all.ipk
+MD5sum: 54e5c30855ceeb763dd1140c57954b28
+SHA256sum: 3175d46370f11d6ead9255f7120b7530668f74959aea4b1a7498ec9ec7512f47
+
+Package: enigma2-plugin-extensions-xklass
+Version: 1.18.20241030
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: kiddac
+Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
+Source:
+Size: 5633952
+Filename: enigma2-plugin-extensions-xklass_1.18.20241030_all.ipk
+MD5sum: cd602788f608a8fc47745645c0ca1662
+SHA256sum: 24de8a7adcfedbd2280528a00069dcaa3915e854be1c72e0ebe9634424bb4869
+
+Package: enigma2-plugin-softcams-oscam-emu-levi45
+Version: 11847-802
+Description: OSCam to all images OE2.0 OE2.5/2.6 (Build and modded by Levi45)
+Priority: optional
+Maintainer: Levi45
+License: open
+Architecture: all
+Depends: 
+Source: https://satellite-forum.com
+Size: 9975118
+Filename: enigma2-plugin-softcams-oscam-emu-levi45_11847-802_all.ipk
+MD5sum: 207f5eaae3bff385241c2d539d35c7da
+SHA256sum: 824ba200e5c9cee4bce24942d85e795de88acdae92d736754f306d3df95dc09f
+
